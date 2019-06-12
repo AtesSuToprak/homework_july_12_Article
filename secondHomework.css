@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+HK:900&display=swap');
+
+h1 {
+    font-family: 'Noto Sans HK', sans-serif;
+    font-size:30px; 
+    font-weight: 800;
+    color:#2B3E50;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+
+}
+
+.first-paragraph {
+    width:auto;
+    height:auto;
+    margin:0;
+    padding-left:10px;
+    border-left: 5px solid #BDC3C7;
+}
+
+.divider {
+    border-top:0;
+    border-left:0;
+    border-right:0;
+}
+
+.dates{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#3498DB;
+    letter-spacing: 3px;
+}
+.wrapper {
+    width:50%;
+    height:90%;
+    margin:0 auto;
+    min-width:400px;
+    border: 20px solid #BDC3C7;
+}
+
+div.wrapper article{
+    padding:20px;
+}
+
+
+
+    
